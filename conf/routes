@@ -1,0 +1,2 @@
+GET     /                           controllers.MainController.index
+->      /sub/                       sub.Routes
